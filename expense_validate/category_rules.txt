@@ -1,0 +1,13 @@
+Travel: car rental, flights, hotel stays, Uber/taxi fares
+
+Meals: food, catering, restaurant expenses
+
+Marketing: advertising, events, sponsorships, promotions
+
+Software: subscriptions, licenses, cloud services
+
+Office Supplies: desks, chairs, stationery, printers
+
+Utilities: internet, electricity, water bills
+
+Entertainment: concerts, movies, recreational activities
